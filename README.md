@@ -7,6 +7,7 @@ and developer productivity, especially for Indian students.
 - AI-powered learning assistance
 - Smart notes summarization
 - Developer productivity tools
+
 ## Problem Statement
 Many students struggle with personalized learning and managing
 their study and coding productivity effectively.
